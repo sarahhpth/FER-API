@@ -1,0 +1,8 @@
+tensorflow==2.16.1
+fastapi
+pydantic
+uvicorn[standard]
+python-multipart
+numpy
+Pillow
+opencv-python-headless
