@@ -9,6 +9,8 @@ Response:
 
 ![Response body](img/response.png)
 
+Note: response image is cropped, the full body contains all 7 emotions probability score.
+
 To build using Docker:
 `docker build -t fer-api .`
 
